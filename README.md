@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Desktop Workbench
 
 A local-first AI desktop workspace with agent automation, knowledge management, and visual task flows.
